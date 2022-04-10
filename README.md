@@ -15,7 +15,7 @@ Projeto realizado para desenvolver as HTML, CSS e JavaScript.
 
 ## O que deverá ser desenvolvido
 
-- Será desenvolvido uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
+- Será desenvolvido um jogo de advinhação utilizando `HTML`, `CSS` e `JavaScript`.
 
 ---
 
